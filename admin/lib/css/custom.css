@@ -1,0 +1,19 @@
+.btn-outline-success
+{
+    color: white;
+    border-color: black;
+}
+
+.btn-outline-success:hover
+{
+    background-color: black;
+}
+
+.tab
+{
+    border:solid black;
+}
+
+.container{
+    text-align: center ;
+}
